@@ -16,6 +16,7 @@
 - The data about the participants is read from a text file at the start of the program.
 - Each window has the name of its participant.
 - Each participant can answer a question multiple times.
+- In order to answer a question, the parcitipant must select it.
 - Each participant can add multiple questions.
 - Each participant can vote answers for a question.
 - On each window, the answers of the participant are highlighted in yellow.
