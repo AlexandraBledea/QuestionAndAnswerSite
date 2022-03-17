@@ -1,0 +1,8 @@
+1;In what year was the first iPhone released?;Adrian
+2;How many actors have played the role of James Bond?;Ana
+6;What’s the name of the dog in The Simpsons?;Ana
+4;What company is also the name of one of the longest rivers in the world?;Adrian
+5;In the Harry Potter book series, which character is described as having a “wild, tangled beard”?;Ale
+3;How many children does Queen Elizabeth have?;Ale
+370;Cate mere are Ana?;Ale
+342;Cate mere are Ana?;Adrian

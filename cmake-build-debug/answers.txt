@@ -1,0 +1,14 @@
+1;1;Ale;2007;3
+2;2;Adrian;Nine;7
+3;3;Ana;4;2
+4;4;Ale;Amazon;3
+5;5;Ana;Hagrid;5
+6;6;Adrian;Santa's Little Helper;12
+7;2;Ale;Seven;3
+8;2;Adrian;Ten;1
+9;1;Ana;2005;1
+10;1;Ale;2006;5
+11;1;Ana;2012;0
+12;6;Ale;Thor;3
+400;370;Adrian;3;1
+375;342;Adrian;3;0

@@ -1,0 +1,4 @@
+C:/Users/night/Documents/GitHub/Projects/Question and answer site/cmake-build-debug/CMakeFiles/Question_and_answer_site.dir
+C:/Users/night/Documents/GitHub/Projects/Question and answer site/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Question and answer site/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/night/Documents/GitHub/Projects/Question and answer site/cmake-build-debug/CMakeFiles/Question_and_answer_site_autogen.dir
